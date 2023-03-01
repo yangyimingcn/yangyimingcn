@@ -1,16 +1,16 @@
-### Hi there 👋
+# 杨一鸣（Yang Yiming）
+## 基本信息
+性别：男  
+年龄：22  
+## 教育经历
+青岛大学|商学院  
+信息管理与信息系统|本科
+## 科研经历
 
-<!--
-**yangyimingcn/yangyimingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 项目经历
 
-Here are some ideas to get you started:
+## 自我评价
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
